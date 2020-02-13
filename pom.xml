@@ -17,7 +17,7 @@
 		<cxf.version>3.0.5</cxf.version>
   </properties>
 	<dependencies>
-		<dependency>
+		<dependency> 
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
