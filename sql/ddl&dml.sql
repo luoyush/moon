@@ -1,4 +1,4 @@
-create table sys_menu (
+ create table sys_menu (
 	menu_id int primary key not null auto_increment comment '菜单ID',
 	parent_id int,
 	menu_name char(50),
